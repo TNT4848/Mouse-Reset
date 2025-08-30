@@ -1,3 +1,6 @@
+READ THIS:
+My code is not the best. Please do not create reviews that say that my code is messy or some parts are useless.
+
 Mouse Position Saver & Teleporter
 
 A lightweight Python tool that saves your mouse position after staying still for 1 second, and lets you teleport back to it using a hotkey.
