@@ -4,10 +4,10 @@ A lightweight Python tool that saves your mouse position after staying still for
 
 Features
 
-✔ Saves mouse position after 1 second of being still
-✔ Teleports mouse back to saved position with a hotkey (F5 by default)
-✔ Stops the program with ESC
-✔ Works in the background (no window required in .exe mode)
+Saves mouse position after 1 second of being still
+Teleports mouse back to saved position with a hotkey (F5 by default)
+Stops the program with ESC
+Works in the background (no window required in .exe mode)
 
 Hotkeys
 
