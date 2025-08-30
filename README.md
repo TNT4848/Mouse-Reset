@@ -19,7 +19,9 @@ How to run with the source code:
 
 **Step 1:**
 Install python 3.8+ Interpreter and PIP
+
 **Step 2:**
 Install keyboard, time, pyautogui and ctypes.
+
 **Step 3:**
 Run the code!
